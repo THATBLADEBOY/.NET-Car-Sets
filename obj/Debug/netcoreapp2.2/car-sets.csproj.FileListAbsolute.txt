@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/backend-workspace/car-sets/bin/Debug/netcoreapp2.2/car-sets.deps.json
+/Users/Blade/Desktop/backend-workspace/car-sets/bin/Debug/netcoreapp2.2/car-sets.runtimeconfig.json
+/Users/Blade/Desktop/backend-workspace/car-sets/bin/Debug/netcoreapp2.2/car-sets.runtimeconfig.dev.json
+/Users/Blade/Desktop/backend-workspace/car-sets/bin/Debug/netcoreapp2.2/car-sets.dll
+/Users/Blade/Desktop/backend-workspace/car-sets/bin/Debug/netcoreapp2.2/car-sets.pdb
+/Users/Blade/Desktop/backend-workspace/car-sets/obj/Debug/netcoreapp2.2/car-sets.csprojAssemblyReference.cache
+/Users/Blade/Desktop/backend-workspace/car-sets/obj/Debug/netcoreapp2.2/car-sets.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/backend-workspace/car-sets/obj/Debug/netcoreapp2.2/car-sets.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/backend-workspace/car-sets/obj/Debug/netcoreapp2.2/car-sets.AssemblyInfo.cs
+/Users/Blade/Desktop/backend-workspace/car-sets/obj/Debug/netcoreapp2.2/car-sets.dll
+/Users/Blade/Desktop/backend-workspace/car-sets/obj/Debug/netcoreapp2.2/car-sets.pdb
